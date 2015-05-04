@@ -1,0 +1,7 @@
+asana==0.1.5
+oauthlib==0.7.2
+PyGithub==1.25.2
+requests==2.7.0
+requests-oauthlib==0.4.2
+six==1.9.0
+vboxapi==1.0
